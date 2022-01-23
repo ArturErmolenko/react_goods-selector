@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MACE,oBAAqB,CACrB,WAAY,CACb,gBAGC,wBAA4B,CAC7B,WAGC,YAAa","file":"main.02495a98.chunk.css","sourcesContent":[".good {\n  display: inline-block;\n  width: 100px;\n}\n\n.isSelectedGood {\n  background-color: aquamarine;\n}\n\n.isVisible {\n  display: none;\n}\n"]}
